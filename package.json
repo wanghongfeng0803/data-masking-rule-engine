@@ -1,0 +1,14 @@
+{
+  "name": "data-masking-rule-engine",
+  "version": "1.0.0",
+  "description": "数据脱敏规则引擎与可逆性分析",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
